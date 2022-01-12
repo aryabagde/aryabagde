@@ -1,6 +1,6 @@
 # <p align="center">👋Hey, Arya Bagde here!</p>
 <br />
-### <p>
+<p>
 <img align= "right" src="images/no_gif.gif" alt="no_gif" style="width:250px;" />
 &rarr; 🌟 I am a MERN Stack Developer and Content writer<br />
 &rarr; ✨ I am currently working on making small projects<br />
