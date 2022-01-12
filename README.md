@@ -16,7 +16,7 @@
 <br />
 <br />
 
-## <p align="center"> My Stack </p>
+## <p align="center">💁‍♂️ My Stack </p>
 <!-- nbsp - singular space, ensp double space, emsp 4 spaces-->
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> &nbsp
@@ -33,7 +33,7 @@
 </p>
 <br />
 
-## <p align="center"> Contact me <p>
+## <p align="center">☎ Contact <p>
   
 <p align="center">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> &nbsp &nbsp &nbsp &nbsp
@@ -43,7 +43,7 @@
 </p>
 <br />
 
-## <p align="center"> Stats <p>
+## <p align="center">🔥 My Github Stats <p>
 
 <p align="center">
 <a href="https://github.com/aryabagde/github-readme-stats">
