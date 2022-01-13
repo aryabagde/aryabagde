@@ -2,14 +2,14 @@
 <br />
 <p>
 <img align= "right" src="images/no_gif.gif" alt="no_gif" style="width:250px;" />
-&rarr; 🌟 I am a MERN Stack Developer and Content writer<br />
-&rarr; ✨ I am currently working on making small projects<br />
-&rarr; 🌱 Also I am interesed to learn about AI & ML<br />
-&rarr; 🐍 Ask me about Tkinter, Pygame and OpenCV<br />
-&rarr; 👨‍💻 Currently, I am learning about ML and Django<br />
-&rarr; 💥 Contributor at SWOC 2.0<br />
-&rarr; 📩 Email - <a href="akruyhau@gmail.com">akruyhau@gmail.com</a> <br />
-&rarr; 🎁 Fun Fact: I am a dancer and a HUGE Captain America fan!
+<h4> &rarr; 🌟 I am a MERN Stack Developer and Content writer <br />  </h4>
+<h4> &rarr; ✨ I am currently working on making small projects <br /> </h4>
+<h4> &rarr; 🌱 Also I am interesed to learn about AI & ML<br /> </h4>
+<h4> &rarr; 🐍 Ask me about Tkinter, Pygame and OpenCV<br /> </h4>
+<h4> &rarr; 👨‍💻 Currently, I am learning about ML and Django<br /> </h4>
+<h4> &rarr; 💥 Contributor at SWOC 2.0<br /> </h4>
+<h4> &rarr; 📩 Email - <a href="akruyhau@gmail.com">akruyhau@gmail.com</a> <br /> </h4>
+<h4>&rarr; 🎁 Fun Fact: I am a dancer and a HUGE Captain America fan! </h4>
 </p>
 <br />
 <br />
