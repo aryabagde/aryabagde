@@ -51,6 +51,11 @@
 </a>
 <br />
 <br />
+<a href="https://github.com/aryabagde/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark" />
+</a>
+<br />
+<br />
 <a href="https://github.com/aryabagde/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryabagde&layout=compact" />
 </a>
