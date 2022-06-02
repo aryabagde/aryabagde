@@ -1,7 +1,8 @@
 # <p align="center">👋Hey, Arya Bagde here!</p>
 <br />
 <p>
-<img align="right" src="images/no_gif.gif" alt="no_gif" width="250px" />
+<div align="right" width="250px" height="250px">
+<img align="right" src="images/no_gif.gif" alt="no_gif" width="250px" height="250px"/></div>
 &rarr; 🌟 I am a MERN Stack Developer and Content writer <br />  
 &rarr; ✨ I am currently working on making small projects <br /> 
 &rarr; 🌱 Also I am interesed to learn about AI & ML<br /> 
