@@ -1,3 +1,4 @@
+![coding_logos](https://user-images.githubusercontent.com/69676190/172766588-fc5163c8-1737-4062-a8b5-23a91379658e.png)
 # <p align="center">👋Hey, Arya Bagde here!</p>
 <br />
 <p>
