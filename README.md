@@ -64,3 +64,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryabagde&layout=compact" />
 </a>
 </p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&descAlign=100"/></p>
