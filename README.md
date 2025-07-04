@@ -11,7 +11,6 @@
 &rarr; 👨‍💻 Currently, I am learning about ML and Django<br /> 
 &rarr; 💥 Contributor at SWOC 2.0<br /> 
 &rarr; 📩 Email - <a href="akruyhau@gmail.com">akruyhau@gmail.com</a> <br /> 
-&rarr; 🎁 Fun Fact: I am a dancer and a HUGE Captain America fan! <br />
 &rarr; 📚 Medium Blog - <a href="https://medium.com/@aryabagde">https://medium.com/@aryabagde</a> <br />
 </p>
 <br />
