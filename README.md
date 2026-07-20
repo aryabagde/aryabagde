@@ -3,7 +3,7 @@
 # <p align="center">👋 Hey, Arya Bagde here!</p>
 
 <p align="center">
-<a href="https://github.com/aryabagde"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%92%BB;Turning+Data+into+Decisions+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://github.com/aryabagde"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%92%BB;Turning+Data+into+Decisions+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 <br />
@@ -100,6 +100,30 @@
 
 <br />
 
+## <p align="center">🟡 Pac-Man Eats My Commits</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryabagde/aryabagde/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryabagde/aryabagde/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/aryabagde/aryabagde/output/pacman-contribution-graph.svg">
+</picture>
+</p>
+
+<br />
+
+## <p align="center">🧱 …and Breakout Smashes Them</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryabagde/aryabagde/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryabagde/aryabagde/output/breakout-contribution-graph.svg">
+  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/aryabagde/aryabagde/output/breakout-contribution-graph.svg">
+</picture>
+</p>
+
+<br />
+
 ## <p align="center">📊 My GitHub Metrics</p>
 
 <p align="center">
@@ -164,7 +188,7 @@ Think you can outsmart a minimax bot? Play Tic-Tac-Toe against my unbeatable AI 
 ## <p align="center">📝 Latest From My Blog</p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Difference between AI, ML and DL](https://medium.com/@aryabagde/difference-between-ai-ml-and-dl-a84fbb9cb4e0?source=rss-14e0740cf050------2)
+<!-- Your latest Medium posts appear here automatically -->
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><a href="https://medium.com/@aryabagde">➡️ Read more on Medium</a></p>
