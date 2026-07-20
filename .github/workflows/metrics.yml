@@ -1,0 +1,27 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:          # manual run button
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate github-metrics.svg
+        uses: lowlighter/metrics@latest
+        with:
+          # GITHUB_TOKEN works for the base panel + languages.
+          # For richer plugins, create a Personal Access Token,
+          # add it as a secret named METRICS_TOKEN, and use it here instead.
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: aryabagde
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
