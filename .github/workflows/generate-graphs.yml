@@ -1,4 +1,4 @@
-name: Generate 3D Graph
+name: Generate Arcade & 3D Graphs
 
 on:
   schedule:
@@ -13,11 +13,19 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
-      # 3D contribution graph -> profile-3d-contrib/
+      # 1) Arcade games (Pac-Man + Breakout) -> dist/
+      - name: Generate arcade contribution graphs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Comma-separated list of games to generate.
+          games: 'pacman,breakout'
+
+      # 2) 3D contribution graph -> profile-3d-contrib/
       - name: Generate 3D graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -28,8 +36,9 @@ jobs:
         run: |
           mkdir -p dist/profile-3d-contrib
           cp profile-3d-contrib/*.svg dist/profile-3d-contrib/ || true
+          ls -R dist
 
-      # Publish to the "output" branch
+      # 3) Publish everything to the "output" branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
