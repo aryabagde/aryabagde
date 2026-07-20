@@ -1,0 +1,21 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day
+  workflow_dispatch:        # manual run button
+
+jobs:
+  update-readme:
+    name: Update README with latest Medium posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@aryabagde"
+          max_post_count: 4
