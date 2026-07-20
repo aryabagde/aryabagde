@@ -3,18 +3,18 @@
 # <p align="center">👋 Hey, Arya Bagde here!</p>
 
 <p align="center">
-<a href="https://github.com/aryabagde"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%92%BB;Turning+Data+into+Decisions+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://github.com/aryabagde"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%92%BB;Turning+Data+into+Decisions+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 <br />
 <p>
 <div align="right" width="250px" height="250px">
 <img align="right" src="images/no_gif.gif" alt="no_gif" width="250px" height="250px"/></div>
-&rarr; 🤖 Aspiring <b>AI/ML Engineer</b> exploring Machine Learning, Deep Learning & Computer Vision <br />  
+&rarr; 🤖 <b>AI/ML Engineer</b> exploring NLP, Deep Learning & Computer Vision <br />  
 &rarr; 🌐 Full-stack builder with the <b>MERN</b> stack, now training models instead of just APIs <br /> 
 &rarr; 🧠 Currently learning <b>Neural Networks, NLP, and Model Deployment</b> <br /> 
 &rarr; 🐍 Ask me about <b>Python, TensorFlow, OpenCV, Pygame & Tkinter</b> <br /> 
-&rarr; 🔬 Building small ML projects and writing about what I learn <br /> 
+&rarr; 🔬 Building ML projects and writing about what I learn <br /> 
 &rarr; 💥 Contributor at <b>SWOC 2.0</b> <br /> 
 &rarr; ✍️ I write tech articles on Medium <br /> 
 &rarr; 📩 Email — <a href="mailto:akruyhau@gmail.com">akruyhau@gmail.com</a> <br /> 
@@ -100,7 +100,7 @@
 
 <br />
 
-## <p align="center">🟡 Pac-Man Eats My Commits</p>
+## <p align="center">🟡 Pac-Man eating everything </p>
 
 <p align="center">
 <picture>
@@ -112,7 +112,7 @@
 
 <br />
 
-## <p align="center">🧱 …and Breakout Smashes Them</p>
+## <p align="center">🧱 …and Breakout Smashing everything </p>
 
 <p align="center">
 <picture>
@@ -132,7 +132,7 @@
 
 <br />
 
-## <p align="center">🏙️ My Contribution Skyline (3D)</p>
+## <p align="center">🏙️ My Contribution Skyline</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/aryabagde/aryabagde/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
@@ -206,7 +206,5 @@ Think you can outsmart a minimax bot? Play Tic-Tac-Toe against my unbeatable AI 
 </p>
 
 <br />
-
-<p align="center"><i>⭐️ From <a href="https://github.com/aryabagde">Arya Bagde</a> — "The best way to predict the future is to train a model for it."</i></p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&descAlign=100&reversal=true"/></p>
