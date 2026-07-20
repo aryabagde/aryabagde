@@ -10,15 +10,15 @@
 <p>
 <div align="right" width="250px" height="250px">
 <img align="right" src="images/no_gif.gif" alt="no_gif" width="250px" height="250px"/></div>
-&rarr; 🤖 <b>AI/ML Engineer</b> exploring NLP, Deep Learning & Computer Vision <br />  
+&rarr; 🤖 Aspiring <b>AI/ML Engineer</b> exploring Machine Learning, Deep Learning & Computer Vision <br />  
 &rarr; 🌐 Full-stack builder with the <b>MERN</b> stack, now training models instead of just APIs <br /> 
 &rarr; 🧠 Currently learning <b>Neural Networks, NLP, and Model Deployment</b> <br /> 
 &rarr; 🐍 Ask me about <b>Python, TensorFlow, OpenCV, Pygame & Tkinter</b> <br /> 
-&rarr; 🔬 Building meaningful ML projects and writing about what I learn <br />
+&rarr; 🔬 Building small ML projects and writing about what I learn <br /> 
+&rarr; 💥 Contributor at <b>SWOC 2.0</b> <br /> 
 &rarr; ✍️ I write tech articles on Medium <br /> 
-&rarr; 📩 Email — <a href="mailto:arya.work.bagde@gmail.com">arya.work.bagde@gmail.com</a> <br /> 
+&rarr; 📩 Email — <a href="mailto:akruyhau@gmail.com">akruyhau@gmail.com</a> <br /> 
 &rarr; 📚 Medium Blog — <a href="https://medium.com/@aryabagde">medium.com/@aryabagde</a> <br />
-&rarr; 🌐 My portfolio — <a href="https://aryabagde.netlify.app/">@aryabagde</a> <br />
 </p>
 <br />
 <br />
@@ -100,10 +100,10 @@
 
 <br />
 
-## <p align="center">🐍 Trying to be consistent</p>
+## <p align="center">📊 My GitHub Metrics</p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/aryabagde/aryabagde/output/github-snake-dark.svg" alt="snake animation" />
+<img src="./github-metrics.svg" alt="github metrics" />
 </p>
 
 <br />
@@ -151,11 +151,11 @@ Think you can outsmart a minimax bot? Play Tic-Tac-Toe against my unbeatable AI 
 | Stage | Focus | Status |
 | :---: | :--- | :---: |
 | 📊 | Data Analysis with Pandas & NumPy | ✅ Done |
-| 🤖 | Core Machine Learning (scikit-learn) | ✅ Done |
+| 🤖 | Core Machine Learning (scikit-learn) | 🔄 In Progress |
 | 🧠 | Deep Learning & Neural Networks | 🔄 In Progress |
 | 👁️ | Computer Vision with OpenCV | 🔄 In Progress |
-| 💬 | Natural Language Processing | 🔄 In Progress |
-| 🚀 | Model Deployment (Flask / Streamlit) | 🔄 In Progress |
+| 💬 | Natural Language Processing | 🎯 Next Up |
+| 🚀 | Model Deployment (Flask / Streamlit) | 🎯 Next Up |
 
 </p>
 
@@ -180,5 +180,9 @@ Think you can outsmart a minimax bot? Play Tic-Tac-Toe against my unbeatable AI 
 <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> &nbsp &nbsp
 <a href="https://medium.com/@aryabagde"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
+
+<br />
+
+<p align="center"><i>⭐️ From <a href="https://github.com/aryabagde">Arya Bagde</a> — "The best way to predict the future is to train a model for it."</i></p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&descAlign=100&reversal=true"/></p>
