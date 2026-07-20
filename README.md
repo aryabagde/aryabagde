@@ -164,7 +164,7 @@ Think you can outsmart a minimax bot? Play Tic-Tac-Toe against my unbeatable AI 
 ## <p align="center">📝 Latest From My Blog</p>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- Your latest Medium posts appear here automatically -->
+- [Difference between AI, ML and DL](https://medium.com/@aryabagde/difference-between-ai-ml-and-dl-a84fbb9cb4e0?source=rss-14e0740cf050------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"><a href="https://medium.com/@aryabagde">➡️ Read more on Medium</a></p>
