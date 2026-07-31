@@ -1,4 +1,4 @@
-name: Generate Arcade & 3D Graphs
+name: Generate Pac-Man & 3D Graphs
 
 on:
   schedule:
@@ -17,13 +17,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # 1) Arcade games (Pac-Man + Breakout) -> dist/
-      - name: Generate arcade contribution graphs
+      # 1) Pac-Man -> dist/pacman-contribution-graph(-dark).svg
+      - name: Generate Pac-Man graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Comma-separated list of games to generate.
-          games: 'pacman,breakout'
 
       # 2) 3D contribution graph -> profile-3d-contrib/
       - name: Generate 3D graph
@@ -36,6 +34,7 @@ jobs:
         run: |
           mkdir -p dist/profile-3d-contrib
           cp profile-3d-contrib/*.svg dist/profile-3d-contrib/ || true
+          echo "===== files being published ====="
           ls -R dist
 
       # 3) Publish everything to the "output" branch
